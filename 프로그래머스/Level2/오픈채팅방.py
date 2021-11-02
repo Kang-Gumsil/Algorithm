@@ -20,7 +20,7 @@ def solution(record):
     # 최종 결과 생성
     for data in record:
         parsed_data = data.split(" ")
-        
+
         action = parsed_data[0]
         uid = parsed_data[1]
         nickname = users[uid]
