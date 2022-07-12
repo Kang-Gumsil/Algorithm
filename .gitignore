@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# idea
+\[Python\] 이것이 코딩테스트다 with 파이썬/.idea
+
+.DS_Store
